@@ -1,0 +1,7 @@
+{
+  "name": "Nebula Strike: Finger Commander",
+  "description": "An immersive gesture-controlled shooting game using your camera to track your finger as a laser pointer. Battle cosmic entities with simple hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
